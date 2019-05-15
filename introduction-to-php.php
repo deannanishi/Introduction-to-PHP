@@ -78,5 +78,5 @@ SQL - Stands for Structural Query Language
             <li>JS - Stands for JavaScript
             <li>PHP - Stands for Hypertext Preprocessor
             <li>SQL - Stands for Structural Query Language
-        </ul>"  
+        </ul>";  
 ?>
